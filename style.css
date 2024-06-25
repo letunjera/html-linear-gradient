@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+.main_box{
+    width: 900px;
+    height: 600px;
+    margin: auto;
+    border: 2px solid white;
+    background: linear-gradient(green 35%, white 36% 40%, black 41% 60%, white 61% 65%, green 66% 100%);
+    justify-content: center;
+    align-items: center;
+}
